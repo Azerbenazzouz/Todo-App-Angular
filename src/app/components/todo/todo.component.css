@@ -1,0 +1,9 @@
+.todo-Item{
+  background-color:#eee;
+  padding:5px;
+  margin:5px;
+  border-radius: 5px;
+}
+.complited{
+  background: #48c37f;
+}
